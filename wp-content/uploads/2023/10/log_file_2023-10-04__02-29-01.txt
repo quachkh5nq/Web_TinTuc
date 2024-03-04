@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: CoinBase were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://coinzk.xyz
+Data file = /home/coinzkxy/public_html/wp-content/themes/smart-mag/inc/demos/coinbase.xml
+Widget file = /home/coinzkxy/public_html/wp-content/themes/smart-mag/inc/demos/coinbase-widgets.json
+Customizer file = /home/coinzkxy/public_html/wp-content/themes/smart-mag/inc/demos/coinbase-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "Depositphotos_475476518_xl-2015-1" (Media)
+
+
+---Importing content---
+[WARNING] Failed to import "Contact Form Example": Invalid post type wpcf7_contact_form
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing widgets---
+smartmag-bbpress : Sidebar does not exist in theme (moving widget to Inactive)
+
+SmartMag - Latest Posts - No Title - Imported to Inactive
+
+Main Sidebar : 
+
+SmartMag Block - Grid - No Title - Imported
+SmartMag - Newsletter - No Title - Imported
+SmartMag - Ads / Code - No Title - Imported
+
+Off-Canvas Widgets : 
+
+SmartMag - Latest Posts - No Title - Imported
+
+Footer Widgets : 
+
+SmartMag - About Widget - No Title - Imported
+SmartMag - Latest Posts - No Title - Imported
+SmartMag - Newsletter - No Title - Imported
+
+

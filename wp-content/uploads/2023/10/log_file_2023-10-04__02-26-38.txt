@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: CoinBase were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://coinzk.xyz
+Data file = /home/coinzkxy/public_html/wp-content/themes/smart-mag/inc/demos/coinbase.xml
+Widget file = /home/coinzkxy/public_html/wp-content/themes/smart-mag/inc/demos/coinbase-widgets.json
+Customizer file = /home/coinzkxy/public_html/wp-content/themes/smart-mag/inc/demos/coinbase-customizer.dat
+Redux files:
+not defined!
+
+---Importing customizer settings---
+Customizer settings import finished!
